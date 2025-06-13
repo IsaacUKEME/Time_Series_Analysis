@@ -18,6 +18,6 @@ Examine profit trends specific to weekdays to identify daily performance pattern
 ## VISUALIZATION 
 ![](Dasboard1.jpg)
 
-![](Dasboard1.jpg)
+
 
 [Click Here to Access complete Recommendation](https://github.com/IsaacUKEME/Time_Series_Analysis)
